@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Anthony Martinez"
 output: 
   html_document:
     number_sections: true
@@ -17,23 +17,20 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
-
-     
+I attended high school at Quartz Hill,and I graduated in the year 2020. In my opinion English comes easier than Math. I feel this way because I have an easier time answering prompts than memorizing formulas. I did the best in English and History. I feel as though both subjects go hand in hand in the nature of the course work.
 
 
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
-   
+I have a mac laptop, it runs macOs 13.3. I would rate myself at a 6 or 7 on computer proficiency because I am capable of learning computer programs and processes however I do not possess the knowledge on my own. My internet connection where I live is good and works a majority of the time.
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I   
    
  
 
